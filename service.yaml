@@ -1,0 +1,8 @@
+# Demo service config
+company: SignalWave Media
+industry: media
+service: ad-decisioning-edge
+risk_controls:
+  - change approval
+  - audit trail
+  - secure code review
